@@ -1,4 +1,4 @@
-# accessibility_tester
+# SenioGuide
 
 A new Flutter project.
 
